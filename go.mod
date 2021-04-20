@@ -1,4 +1,4 @@
-module currency
+module github.com/jyothipriyankapudota/currency
 
 go 1.16
 
